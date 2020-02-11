@@ -1,0 +1,4 @@
+abc	121
+kartik	123
+hari	189
+qwerty	145

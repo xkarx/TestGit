@@ -1,0 +1,7 @@
+LIST OF PRODUCTS
+
+7495	smart_tv
+7482    samsung_note_2
+3942    iphone_4
+7389    sofa_set
+
